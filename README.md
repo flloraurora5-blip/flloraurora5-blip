@@ -14,4 +14,4 @@ An Information Systems student at Universitas Pamulang with a keen eye for techn
 - [Retail-Sales-Intelligence-Dashboard](https://github.com/flloraurora5-blip/Retail-Sales-Intelligence-Dashboard) - Strategic data transformation and FMCG analytics.
 - [telkom-network-database](https://github.com/flloraurora5-blip/telkom-network-database) - Relational database architecture for infrastructure tracking.
 
-Let's connect on [LinkedIn](www.linkedin.com/in/fllor-aurora-dyva-oktora-336b49403)!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/fllor-aurora-dyva-oktora-336b49403)!
