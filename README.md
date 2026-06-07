@@ -1,4 +1,4 @@
-# Hi, I'm Florence 👋
+# Hi, I'm Fllor Aurora Dyva Oktora 👋
 An Information Systems student at Universitas Pamulang with a keen eye for technical logic, database management, and clean backend structure.
 
 ### 🛠️ Tech Stack & Skills
