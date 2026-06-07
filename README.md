@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Florence 👋
+An Information Systems student at Universitas Pamulang with a keen eye for technical logic, database management, and clean backend structure.
 
-<!--
-**flloraurora5-blip/flloraurora5-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Skills
+- **Data & Analytics:** Microsoft Excel (Advanced), SQL (MySQL), Data Aggregation
+- **Web Development:** PHP, Laravel Framework (Learning), Relational Database, HTML & CSS
+- **Core Focus:** Enterprise Data Management, System Analysis & E-Government
 
-Here are some ideas to get you started:
+### 🚀 Current Projects
+- [fllor-personal-portfolio](https://github.com/flloraurora5-blip/fllor-personal-portfolio) - Personal web portfolio showcasing my digital growth.
+- [Finance-Dashboard-Project](https://github.com/flloraurora5-blip/Finance-Dashboard-Project) - Personal finance monitoring system built for data tracking.
+- [The-Casual-Guide-Web](https://github.com/flloraurora5-blip/The-Casual-Guide-Web) - Individual web project focused on lifestyle & aesthetics.
+- [Retail-Sales-Intelligence-Dashboard](https://github.com/flloraurora5-blip/Retail-Sales-Intelligence-Dashboard) - Strategic data transformation and FMCG analytics.
+- [telkom-network-database](https://github.com/flloraurora5-blip/telkom-network-database) - Relational database architecture for infrastructure tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect on [LinkedIn](www.linkedin.com/in/fllor-aurora-dyva-oktora-336b49403)!
