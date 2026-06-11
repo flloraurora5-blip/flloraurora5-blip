@@ -1,5 +1,4 @@
 # Hi, I'm Fllor Aurora Dyva Oktora 👋
-### You can call me Fllor.
 An Information Systems student at Universitas Pamulang with a keen eye for business data workflows, relational database architecture, and systematic tech solutions.
 
 ### 🛠️ Tech Stack & Skills
