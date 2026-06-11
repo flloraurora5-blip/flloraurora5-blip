@@ -13,4 +13,5 @@ An Information Systems student at Universitas Pamulang with a keen eye for busin
 
 ---
 
-Let's connect on [LinkedIn](www.linkedin.com/in/fllor-aurora-dyva-oktora-336b49403)!
+### 🌐 Connect with Me
+- **LinkedIn:** www.linkedin.com/in/fllor-aurora-dyva-oktora-336b49403
