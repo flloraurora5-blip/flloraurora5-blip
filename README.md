@@ -1,17 +1,17 @@
 # Hi, I'm Fllor Aurora Dyva Oktora 👋
 ### You can call me Fllor.
-An Information Systems student at Universitas Pamulang with a keen eye for technical logic, database management, and clean backend structure.
+An Information Systems student at Universitas Pamulang with a keen eye for business data workflows, relational database architecture, and systematic tech solutions.
 
 ### 🛠️ Tech Stack & Skills
-- **Data & Analytics:** Microsoft Excel (Advanced), SQL (MySQL), Data Aggregation
-- **Web Development:** PHP, Laravel Framework (Learning), Relational Database, HTML & CSS
-- **Core Focus:** Enterprise Data Management, System Analysis & E-Government
+- **Data & Analytics:** Microsoft Excel (Advanced), SQL (MySQL), Data Aggregation & Business Intelligence
+- **Information Systems:** System Analysis, Relational Database Design, Process Modeling
+- **Web Development:** PHP, Laravel Framework (Backend Basics)
 
 ### 🚀 Current Projects
-- [fllor-personal-portfolio](https://github.com/flloraurora5-blip/fllor-personal-portfolio) - Personal web portfolio showcasing my digital growth.
-- [Finance-Dashboard-Project](https://github.com/flloraurora5-blip/Finance-Dashboard-Project) - Personal finance monitoring system built for data tracking.
-- [The-Casual-Guide-Web](https://github.com/flloraurora5-blip/The-Casual-Guide-Web) - Individual web project focused on lifestyle & aesthetics.
-- [Retail-Sales-Intelligence-Dashboard](https://github.com/flloraurora5-blip/Retail-Sales-Intelligence-Dashboard) - Strategic data transformation and FMCG analytics.
-- [telkom-network-database](https://github.com/flloraurora5-blip/telkom-network-database) - Relational database architecture for infrastructure tracking.
+- **The Casual Guide** - Individual web project built with PHP Native.
+- **Photobooth Sales Information System** - Group collaboration project focusing on transaction data streams.
+- **Daikibo Telemetry Data Analysis** - Virtual project on processing 160k+ industrial telemetry logs using Power Query.
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/fllor-aurora-dyva-oktora-336b49403)!
+---
+
+Let's connect on [LinkedIn](www.linkedin.com/in/fllor-aurora-dyva-oktora-336b49403)!
